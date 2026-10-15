@@ -4,7 +4,7 @@
 
 ### Computer Scientist · Software Engineer · Technical Lead
 
-*Grounded in mathematics and computer science fundamentals, building enterprise-level platforms across **hospitality**, **ERP**, and **scientific** domains.*
+_Grounded in mathematics and computer science fundamentals, building enterprise-level platforms across **hospitality**, **ERP**, and **scientific** domains._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-migueacalle98-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/migueacalle98)
 [![Email](https://img.shields.io/badge/Email-migueacalle98@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:migueacalle98@gmail.com)
@@ -39,18 +39,18 @@ I'm a computer scientist and full-stack software engineer with a B.S. in Compute
 
 ## 🎓 Education
 
-| Years | Program | Institution |
-|---|---|---|
-| 2022 – 2023 | **B.S. in Computer Science** | Florida International University |
-| 2017 – 2021 | Computer Science *(Faculty of Mathematics and Computer Science)* | University of Havana |
+| Years       | Program                                                          | Institution                      |
+| ----------- | ---------------------------------------------------------------- | -------------------------------- |
+| 2022 – 2023 | **B.S. in Computer Science**                                     | Florida International University |
+| 2017 – 2021 | Computer Science _(Faculty of Mathematics and Computer Science)_ | University of Havana             |
 
 ---
 
 ## 🏆 Awards & Recognition
 
-- 🌟 **2023** · Rising Star Award Nominee, *Preferred Travel Group*
-- 🔬 **2020** · Scientific Day Award, *University of Havana*
-- 🥈 **2012** · Finalist, National Math Olympics, *State Silver Medal · County Gold Medal*
+- 🌟 **2023** · Rising Star Award Nominee, _Preferred Travel Group_
+- 🔬 **2020** · Scientific Day Award, _University of Havana_
+- 🥈 **2012** · Finalist, National Math Olympics, _State Silver Medal · County Gold Medal_
 
 ---
 
@@ -58,14 +58,12 @@ I'm a computer scientist and full-stack software engineer with a B.S. in Compute
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub metrics, including private repository activity" />
-
 <img src="https://streak-stats.demolab.com/?user=Migueacalle98&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
 <sub>Includes contributions to private, closed-source repositories (aggregate counts only).</sub>
 
-</div>
+<img src="./github-metrics.svg" alt="GitHub metrics, including private repository activity" />
 
+</div>
 
 ---
 

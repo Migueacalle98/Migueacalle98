@@ -29,7 +29,8 @@ jobs:
 
           # Commit calendar across years; defaults to the current year.
           # Set plugin_calendar_limit: 0 for full history.
-          plugin_calendar: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
           # Steam profile and game activity.
           plugin_steam: yes
