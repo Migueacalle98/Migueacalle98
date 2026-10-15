@@ -23,15 +23,10 @@ jobs:
           config_timezone: America/New_York
           filename: github-metrics.svg
 
-          # Languages and lines of code across all repos the token can see,
-          # including private ones. Output is aggregate only.
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
-
+          # Lines of code added/removed across repos the token can see
+          # (private included). Aggregate only.
           plugin_lines: yes
 
-          # Contribution heatmap (includes private contributions)
+          # 2D contribution calendar (includes private contributions).
+          # Current year by default; set plugin_calendar_limit: 0 for full history.
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
