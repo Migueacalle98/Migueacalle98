@@ -28,12 +28,12 @@ I'm a computer scientist and full-stack software engineer with a B.S. in Compute
 
 ## 🧠 Skills & Concepts
 
-- ✅ SOLID Principles
-- ✅ Technical Leadership & Code Review
-- ✅ ERP Architecture & Implementation
-- ✅ Architectural Patterns & Best Practices
-- ✅ Object-Oriented & Functional Programming
-- ✅ API Design & Documentation
+- 🧱 SOLID Principles
+- 🎯 Technical Leadership & Code Review
+- 🏢 ERP Architecture & Implementation
+- 🏛️ Architectural Patterns & Best Practices
+- 🧩 Object-Oriented & Functional Programming
+- 🔌 API Design & Documentation
 
 ---
 
