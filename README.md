@@ -59,6 +59,7 @@ I'm a computer scientist and full-stack software engineer with a B.S. in Compute
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Migueacalle98&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+
 <sub>Includes contributions to private, closed-source repositories (aggregate counts only).</sub>
 
 <img src="./github-metrics.svg" alt="GitHub metrics, including private repository activity" />
