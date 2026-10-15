@@ -75,9 +75,3 @@ I'm always happy to talk about **system design**, **API design**, **ERP architec
 - 💼 [LinkedIn](https://linkedin.com/in/migueacalle98)
 - ✉️ [migueacalle98@gmail.com](mailto:migueacalle98@gmail.com)
 - 📄 [Résumé (LaTeX source)](https://github.com/Migueacalle98/Latex_CV)
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=Migueacalle98&label=Profile+views&color=0e75b6&style=flat)
-
-</div>
