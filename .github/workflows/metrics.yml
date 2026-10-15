@@ -27,6 +27,11 @@ jobs:
           # (private included). Aggregate only.
           plugin_lines: yes
 
-          # 2D contribution calendar (includes private contributions).
-          # Current year by default; set plugin_calendar_limit: 0 for full history.
-          plugin_isocalendar: yes
+          # Commit calendar across years; defaults to the current year.
+          # Set plugin_calendar_limit: 0 for full history.
+          plugin_calendar: yes
+
+          # Steam profile and game activity.
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: ${{ secrets.STEAM_USER }}
